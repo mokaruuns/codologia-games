@@ -8,6 +8,6 @@
 
 ### Связь со мной
 
-- Telegram [t.me/mokaruuns](t.me/mokaruuns) 
+- Telegram [t.me/mokaruuns](https://t.me/mokaruuns) 
 
 Желательно, чтобы у ребенка был установлен Telegram - там я отвечаю быстрее
