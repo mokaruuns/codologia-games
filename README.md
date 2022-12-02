@@ -1,10 +1,9 @@
 # Содержание
 
-Курс по созданию игр на Scratch
-
-## 1. [Введение в Scratch](Scratch/1_Scratch_Intro/README.md)
-
-## 2. [Программирование в Scratch](Scratch/2_Scratch_Intro_2/README.md)
+### Курс по созданию игр на Scratch
+- [Введение в Scratch](Scratch/1_Scratch_Intro/README.md)
+- [Программирование в Scratch](Scratch/2_Scratch_Intro_2/README.md)
+- [Как сдавать домашние работы](Scratch/How_Upload_HW/README.md)
 
 ### Связь со мной
 
