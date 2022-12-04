@@ -1,7 +1,7 @@
 # Содержание курса по Scratch
 
-### Введение в Scratch [Scratch_Intro](1_Scratch_Intro/README.md)
+- [0. Как сдавать домашние работы](How_Upload_HW/README.md)
+- [1. Введение в Scratch](1_Scratch_Intro/README.md)
+- [2. Программирование в Scratch](2_Scratch_Intro_2/README.md)
+- [3. Переменные и внешний вид](3_Scratch_variables/README.md)
 
-### Программирование в Scratch [Scratch_Programming](2_Scratch_Programming/README.md)
-
-### Как сдавать домашние работы [Инструкция](How_Upload_HW/README.md)
