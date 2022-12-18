@@ -6,6 +6,7 @@
 - [2. Программирование в Scratch](Scratch/2_Scratch_Intro_2/README.md)
 - [3. Переменные и внешний вид](Scratch/3_Scratch_variables/README.md)
 - [4. Практика](Scratch/4_Scratch_practice/README.md)
+- [5. Перо. Paint](Scratch/5_Scratch_Paint/README.md)
 
 ## Связь со мной
 
