@@ -7,4 +7,4 @@
 - [4. Практика](4_Scratch_practice/README.md)
 - [5. Перо. Paint](5_Scratch_paint/README.md)
 - [6. Платформер](6_Scratch_platformer/README.md)
-
+- [7. Практика](7_Scratch/README.md)
