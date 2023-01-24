@@ -8,7 +8,8 @@
 - [4. Практика](Scratch/4_Scratch_practice/README.md)
 - [5. Перо. Paint](Scratch/5_Scratch_paint/README.md)
 - [6. Платформер](Scratch/6_Scratch_platformer/README.md)
-- [7. Практика](Scratch/7_Scratch/README.md)
+- [7. Практика. Танк](Scratch/7_Scratch_tank/README.md)
+- [8. Практика. Танк2](Scratch/8_Scratch_tank2/README.md)
 
 ## Связь со мной
 
