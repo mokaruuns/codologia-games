@@ -1,6 +1,6 @@
 # Содержание
 
-### Курс по созданию игр на Scratch
+### Модуль по созданию игр на Scratch
 - [0. Как сдавать домашние работы](Scratch/How_Upload_HW/README.md)
 - [1. Введение в Scratch](Scratch/1_Scratch_Intro/README.md)
 - [2. Программирование в Scratch](Scratch/2_Scratch_Intro_2/README.md)
@@ -10,6 +10,10 @@
 - [6. Платформер](Scratch/6_Scratch_platformer/README.md)
 - [7. Практика. Танк](Scratch/7_Scratch_tank/README.md)
 - [8. Практика. Танк2](Scratch/8_Scratch_tank2/README.md)
+
+### Модуль по созданию игр в Construct 3
+- [1. Введение в Construct 3](Construct3/1_Construct3_Intro/README.md)
+
 
 ## Связь со мной
 
